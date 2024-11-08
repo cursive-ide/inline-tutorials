@@ -1,2 +1,2 @@
 {:deps {cursive/inline-nodes {:git/url "https://github.com/cursive-ide/inline-nodes"
-                              :git/sha "4ce1111c97db56fb55cc6d4c2c2a9b1291e49dd9"}}}
+                              :git/sha "6cc4ee660861a3f4f7809196e7c6c7579e23d290"}}}
